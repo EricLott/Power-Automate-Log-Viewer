@@ -1,0 +1,5 @@
+{
+  "name": "PAD Log Viewer",
+  "description": "A specialized log visualization dashboard for Power Automate Desktop. Analyze thousands of logs locally with timeline views, error filtering, and performance metrics.",
+  "requestFramePermissions": []
+}
